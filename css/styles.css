@@ -129,9 +129,7 @@ body {
     padding: 8em;
   }
   
-  .table {
-    color:;
-  }
+
   
   .date-formed {
     color:plum;
@@ -144,7 +142,13 @@ body {
   .far {
     color: white;
   }
-
+  ul {
+    list-style-type: none;
+    overflow: auto;
+    display: inline-block;
+  
+   
+  }
 
   /* Contact Section */
   .contact .contact-icon {
